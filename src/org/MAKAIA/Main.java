@@ -1,4 +1,4 @@
-package co.com.MAKAIA;
+package org.MAKAIA;
 
 public class Main {
 
